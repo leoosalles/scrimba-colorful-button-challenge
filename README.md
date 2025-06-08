@@ -1,6 +1,7 @@
-# scrimba-colorful-button-challenge
-This project is my solution to the <strong>Scrimba Colorful Button Challenge</strong>. The challenge focuses on designing a button with a visually appealing and dynamic border effect, enhancing the user experience with smooth styling and a modern aesthetic.
-
+<h1>Colorful Button - CSS Styling Challenge 🎨</h1>
+<p>
+  This project is my solution to the <strong>Scrimba Colorful Button Challenge</strong>. The challenge focuses on designing a button with a visually appealing and dynamic border effect, enhancing the user experience with smooth styling and a modern aesthetic.
+</p>
 <h2>Features</h2>
 <ul>
   <li>
